@@ -39,6 +39,7 @@
   // Collapse the navbar when page is scrolled
   $(window).scroll(navbarCollapse);
 
+  /*
   // Magnific popup calls
   $('#portfolio-carousel').magnificPopup({
     delegate: 'a',
@@ -54,5 +55,6 @@
       tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
     }
   });
+*/
 
 })(jQuery); // End of use strict

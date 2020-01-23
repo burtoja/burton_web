@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+Disallow: /base
+Disallow: /quiz
+
+Sitemap: http://www.burtonweb.net/sitemap.xml

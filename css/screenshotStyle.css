@@ -1,0 +1,11 @@
+/* For width smaller than 400px: */
+.screenshot img {
+    background-image: url('../img/portfolio/fullsize/sample_mvgs1a.jpg');
+}
+
+/* For width 400px and larger: */
+@media only screen and (min-width: 400px) {
+    .screenshot img {
+            background-image: url('../img/portfolio/fullsize/sample_mvgs1a.jpg');
+        }
+}
